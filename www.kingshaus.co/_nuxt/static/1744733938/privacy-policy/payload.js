@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/privacy-policy", {data:[{_vid:{},_img:{"/_ipx/q_80,s_1200x630/social-card/social-card-new.jpg":"\u002F_nuxt\u002Fimage\u002F48c3f9.jpg"}}],fetch:{},mutations:[]});
